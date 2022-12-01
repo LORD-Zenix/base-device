@@ -10,7 +10,7 @@
 
 <p align="center">
 
-<a href="https://github.com/skimura-soft"><img title="Author" src="https://img.shields.io/badge/AUTHOR-NandaDEV-green.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/LORD-Zenix"><img title="Author" src="https://img.shields.io/badge/AUTHOR-NandaDEV-green.svg?style=for-the-badge&logo=github"></a>
 
 </p>
 
